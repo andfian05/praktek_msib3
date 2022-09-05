@@ -1,1 +1,3 @@
 Tugas MSIB 3 Mengenai Project
+- Web Design (LandingPage, Boostrap, Form, Dan HTML+CSS)
+- Soft Skill
