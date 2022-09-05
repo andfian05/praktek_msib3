@@ -1,0 +1,52 @@
+* {
+    padding: 3px;
+    margin: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.navbar  a {
+    padding: 10px;
+    text-align: justify;
+    text-decoration: none;
+    justify-content: center;
+    margin: 100px;
+    
+}
+
+.navbar a:hover {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    overflow: hidden;
+   
+}
+
+
+
+.column {
+    padding: 15px;
+    float: left;
+}
+
+
+.column.side{
+    width: 23%;
+}
+
+.column.middle{
+    width: 50%;
+}
+
+.row:after {
+    display: table;
+    clear: both;
+}
+
+.ft {
+    background-color: silver;
+}
